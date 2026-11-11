@@ -1,0 +1,81 @@
+/*
+@sable-theme
+id: rain
+name: Rain
+author: Oriana
+kind: dark
+contrast: low
+tags: resonance
+*/
+
+body.sable-remote-theme {
+  --sable-bg-container: #2f0017;
+  --sable-bg-container-hover: #370b22;
+  --sable-bg-container-active: #3f162c;
+  --sable-bg-container-line: #492239;
+  --sable-bg-on-container: #CFD7E9;
+  --sable-surface-container: #2f0017;
+  --sable-surface-container-hover: #370b22;
+  --sable-surface-container-active: #3f162c;
+  --sable-surface-container-line: #492239;
+  --sable-surface-on-container: #CFD7E9;
+  --sable-surface-var-container: #540017;
+  --sable-surface-var-container-hover: #5a0b22;
+  --sable-surface-var-container-active: #60162c;
+  --sable-surface-var-container-line: #682239;
+  --sable-surface-var-on-container: #CFD7E9;
+  --sable-primary-main: #952717;
+  --sable-primary-main-hover: #9a3528;
+  --sable-primary-main-active: #9e4339;
+  --sable-primary-main-line: #a35149;
+  --sable-primary-on-main: #CFD7E9;
+  --sable-primary-container: #430817;
+  --sable-primary-container-hover: #4a0a17;
+  --sable-primary-container-active: #500c17;
+  --sable-primary-container-line: #560f17;
+  --sable-primary-on-container: #b89195;
+  --sable-sec-main: #952717;
+  --sable-sec-main-hover: #9a3528;
+  --sable-sec-main-active: #9e4339;
+  --sable-sec-main-line: #a35149;
+  --sable-sec-on-main: #CFD7E9;
+  --sable-sec-container: #430817;
+  --sable-sec-container-hover: #4a0a17;
+  --sable-sec-container-active: #500c17;
+  --sable-sec-container-line: #560f17;
+  --sable-sec-on-container: #b89195;
+  --sable-success-main: #952717;
+  --sable-success-main-hover: #9a3528;
+  --sable-success-main-active: #9e4339;
+  --sable-success-main-line: #a35149;
+  --sable-success-on-main: #CFD7E9;
+  --sable-success-container: #430817;
+  --sable-success-container-hover: #4a0a17;
+  --sable-success-container-active: #500c17;
+  --sable-success-container-line: #560f17;
+  --sable-success-on-container: #b89195;
+  --sable-warn-main: #952717;
+  --sable-warn-main-hover: #9a3528;
+  --sable-warn-main-active: #9e4339;
+  --sable-warn-main-line: #a35149;
+  --sable-warn-on-main: #CFD7E9;
+  --sable-warn-container: #430817;
+  --sable-warn-container-hover: #4a0a17;
+  --sable-warn-container-active: #500c17;
+  --sable-warn-container-line: #560f17;
+  --sable-warn-on-container: #b89195;
+  --sable-crit-main: #952717;
+  --sable-crit-main-hover: #9a3528;
+  --sable-crit-main-active: #9e4339;
+  --sable-crit-main-line: #a35149;
+  --sable-crit-on-main: #CFD7E9;
+  --sable-crit-container: #430817;
+  --sable-crit-container-hover: #4a0a17;
+  --sable-crit-container-active: #500c17;
+  --sable-crit-container-line: #560f17;
+  --sable-crit-on-container: #b89195;
+  --sable-focus-ring: #95271780;
+  --sable-shadow: rgb(0 0 0 / 40%);
+  --sable-overlay: rgb(15 14 18 / 85%);
+  --sable-radius: 4px;
+}

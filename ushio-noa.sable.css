@@ -1,0 +1,81 @@
+/*
+@sable-theme
+id: ushio-noa
+name: Ushio Noa
+author: Oriana
+kind: dark
+contrast: low
+tags: blue, purple
+*/
+
+body.sable-remote-theme {
+  --sable-bg-container: #272530;
+  --sable-bg-container-hover: #2f2e39;
+  --sable-bg-container-active: #383743;
+  --sable-bg-container-line: #42414e;
+  --sable-bg-on-container: #CFD7E9;
+  --sable-surface-container: #2F2D3B;
+  --sable-surface-container-hover: #373644;
+  --sable-surface-container-active: #3f3e4c;
+  --sable-surface-container-line: #494857;
+  --sable-surface-on-container: #CFD7E9;
+  --sable-surface-var-container: #3A3748;
+  --sable-surface-var-container-hover: #413f50;
+  --sable-surface-var-container-active: #494758;
+  --sable-surface-var-container-line: #525162;
+  --sable-surface-var-on-container: #CFD7E9;
+  --sable-primary-main: #5C8BD1;
+  --sable-primary-main-hover: #5883c4;
+  --sable-primary-main-active: #547bb7;
+  --sable-primary-main-line: #4f73aa;
+  --sable-primary-on-main: #272530;
+  --sable-primary-container: #323950;
+  --sable-primary-container-hover: #35405a;
+  --sable-primary-container-active: #384664;
+  --sable-primary-container-line: #3b4c6d;
+  --sable-primary-on-container: #a1b9df;
+  --sable-sec-main: #816BC5;
+  --sable-sec-main-hover: #7a65b9;
+  --sable-sec-main-active: #7360ad;
+  --sable-sec-main-line: #6b5aa1;
+  --sable-sec-on-main: #272530;
+  --sable-sec-container: #39334e;
+  --sable-sec-container-hover: #3e3757;
+  --sable-sec-container-active: #443b60;
+  --sable-sec-container-line: #494069;
+  --sable-sec-on-container: #b0acdb;
+  --sable-success-main: #8870CF;
+  --sable-success-main-hover: #806ac2;
+  --sable-success-main-active: #7864b6;
+  --sable-success-main-line: #715ea9;
+  --sable-success-on-main: #272530;
+  --sable-success-container: #3a3450;
+  --sable-success-container-hover: #403959;
+  --sable-success-container-active: #463d63;
+  --sable-success-container-line: #4c426c;
+  --sable-success-on-container: #b3aedf;
+  --sable-warn-main: #9278DE;
+  --sable-warn-main-hover: #8971d0;
+  --sable-warn-main-active: #816bc2;
+  --sable-warn-main-line: #7864b4;
+  --sable-warn-on-main: #272530;
+  --sable-warn-container: #3c3653;
+  --sable-warn-container-hover: #433b5d;
+  --sable-warn-container-active: #494068;
+  --sable-warn-container-line: #504572;
+  --sable-warn-on-container: #b7b1e5;
+  --sable-crit-main: #9A7FEB;
+  --sable-crit-main-hover: #9178dc;
+  --sable-crit-main-active: #8871cd;
+  --sable-crit-main-line: #7e69be;
+  --sable-crit-on-main: #272530;
+  --sable-crit-container: #3e3755;
+  --sable-crit-container-hover: #453c61;
+  --sable-crit-container-active: #4c426c;
+  --sable-crit-container-line: #534777;
+  --sable-crit-on-container: #bab4ea;
+  --sable-focus-ring: #5c8bd180;
+  --sable-shadow: rgb(0 0 0 / 40%);
+  --sable-overlay: rgb(15 14 18 / 85%);
+  --sable-radius: 4px;
+}

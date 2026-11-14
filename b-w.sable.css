@@ -1,0 +1,81 @@
+/*
+@sable-theme
+id: b-w
+name: B&W
+author: Oriana
+kind: dark
+contrast: low
+tags: black, white
+*/
+
+body.sable-remote-theme {
+  --sable-bg-container: #000000;
+  --sable-bg-container-hover: #0d0d0d;
+  --sable-bg-container-active: #1a1a1a;
+  --sable-bg-container-line: #292929;
+  --sable-bg-on-container: #FFFFFF;
+  --sable-surface-container: #000000;
+  --sable-surface-container-hover: #0d0d0d;
+  --sable-surface-container-active: #1a1a1a;
+  --sable-surface-container-line: #292929;
+  --sable-surface-on-container: #FFFFFF;
+  --sable-surface-var-container: #000000;
+  --sable-surface-var-container-hover: #0d0d0d;
+  --sable-surface-var-container-active: #1a1a1a;
+  --sable-surface-var-container-line: #292929;
+  --sable-surface-var-on-container: #FFFFFF;
+  --sable-primary-main: #FFFFFF;
+  --sable-primary-main-hover: #ebebeb;
+  --sable-primary-main-active: #d6d6d6;
+  --sable-primary-main-line: #c2c2c2;
+  --sable-primary-on-main: #000000;
+  --sable-primary-container: #333333;
+  --sable-primary-container-hover: #424242;
+  --sable-primary-container-active: #525252;
+  --sable-primary-container-line: #616161;
+  --sable-primary-on-container: #ffffff;
+  --sable-sec-main: #FFFFFF;
+  --sable-sec-main-hover: #ebebeb;
+  --sable-sec-main-active: #d6d6d6;
+  --sable-sec-main-line: #c2c2c2;
+  --sable-sec-on-main: #000000;
+  --sable-sec-container: #333333;
+  --sable-sec-container-hover: #424242;
+  --sable-sec-container-active: #525252;
+  --sable-sec-container-line: #616161;
+  --sable-sec-on-container: #ffffff;
+  --sable-success-main: #FFFFFF;
+  --sable-success-main-hover: #ebebeb;
+  --sable-success-main-active: #d6d6d6;
+  --sable-success-main-line: #c2c2c2;
+  --sable-success-on-main: #000000;
+  --sable-success-container: #333333;
+  --sable-success-container-hover: #424242;
+  --sable-success-container-active: #525252;
+  --sable-success-container-line: #616161;
+  --sable-success-on-container: #ffffff;
+  --sable-warn-main: #FFFFFF;
+  --sable-warn-main-hover: #ebebeb;
+  --sable-warn-main-active: #d6d6d6;
+  --sable-warn-main-line: #c2c2c2;
+  --sable-warn-on-main: #000000;
+  --sable-warn-container: #333333;
+  --sable-warn-container-hover: #424242;
+  --sable-warn-container-active: #525252;
+  --sable-warn-container-line: #616161;
+  --sable-warn-on-container: #ffffff;
+  --sable-crit-main: #FFFFFF;
+  --sable-crit-main-hover: #ebebeb;
+  --sable-crit-main-active: #d6d6d6;
+  --sable-crit-main-line: #c2c2c2;
+  --sable-crit-on-main: #000000;
+  --sable-crit-container: #333333;
+  --sable-crit-container-hover: #424242;
+  --sable-crit-container-active: #525252;
+  --sable-crit-container-line: #616161;
+  --sable-crit-on-container: #ffffff;
+  --sable-focus-ring: #ffffff80;
+  --sable-shadow: rgb(0 0 0 / 40%);
+  --sable-overlay: rgb(15 14 18 / 85%);
+  --sable-radius: 4px;
+}
